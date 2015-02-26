@@ -1,0 +1,13 @@
+'food': { 
+    'sugar': 'bad', 
+    'sugarfree': 'bad', 
+    'emulsifiers': 'bad', 
+    'roundup': 'bad and in everything', 
+    'organic': 'better', 
+    'carbs': 'excessive', 
+    'fat': 'unclear but better than sugar', 
+    'protein': 'mostly good',
+    'processed food': 'bad',
+    'palio': 'interesting',
+    'ketonic': 'interesting',
+    }
